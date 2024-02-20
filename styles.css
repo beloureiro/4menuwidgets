@@ -6,8 +6,8 @@
 
 .button_link {
     font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Apple Color Emoji, Arial, sans-serif, Segoe UI Emoji, Segoe UI Symbol; /* Atualizado para a nova fonte */
-    background-color: #181818;
-    color: #FFFFFF;
+    background-color: #FFFFFF;
+    color: #000000;
     border: 1px solid #2c2c2c;
     display: flex;
     justify-content: center;
@@ -23,5 +23,5 @@
 }
 
 .button_link:hover {
-    background-color: #ffc201;
+    background-color: #086e3b;
 }
